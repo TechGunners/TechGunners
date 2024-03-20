@@ -2,7 +2,7 @@
 
 ## **About Me:**
 
-* A Developer from Islamabad, Pakistan.
+* A Self-Taught Full Stack Web Developer from Islamabad, Pakistan.
 * Challenged by physical disabilities that affect my mobility and speech.
 * Currently learning and working on personal projects to improve my skills.
 * Drowned in the sea of imagination.
@@ -14,6 +14,8 @@
 - CSS
 - Svelte
 - SvelteKit
+- React
+- Next JS
 - Git
 - Docker
 - Bun JS
@@ -25,6 +27,7 @@
 - Markdown
 - Linux
 - Tailwind CSS
+- Prisma
 ---
 
 ## **Languages**
